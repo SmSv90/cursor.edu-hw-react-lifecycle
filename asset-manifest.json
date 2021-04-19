@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor.edu-hw-react-lifecycles/static/css/main.894c4130.chunk.css",
+    "main.js": "/cursor.edu-hw-react-lifecycles/static/js/main.8b83922d.chunk.js",
+    "main.js.map": "/cursor.edu-hw-react-lifecycles/static/js/main.8b83922d.chunk.js.map",
+    "runtime-main.js": "/cursor.edu-hw-react-lifecycles/static/js/runtime-main.8414d929.js",
+    "runtime-main.js.map": "/cursor.edu-hw-react-lifecycles/static/js/runtime-main.8414d929.js.map",
+    "static/js/2.4730ea22.chunk.js": "/cursor.edu-hw-react-lifecycles/static/js/2.4730ea22.chunk.js",
+    "static/js/2.4730ea22.chunk.js.map": "/cursor.edu-hw-react-lifecycles/static/js/2.4730ea22.chunk.js.map",
+    "static/js/3.272c66ae.chunk.js": "/cursor.edu-hw-react-lifecycles/static/js/3.272c66ae.chunk.js",
+    "static/js/3.272c66ae.chunk.js.map": "/cursor.edu-hw-react-lifecycles/static/js/3.272c66ae.chunk.js.map",
+    "index.html": "/cursor.edu-hw-react-lifecycles/index.html",
+    "static/css/main.894c4130.chunk.css.map": "/cursor.edu-hw-react-lifecycles/static/css/main.894c4130.chunk.css.map",
+    "static/js/2.4730ea22.chunk.js.LICENSE.txt": "/cursor.edu-hw-react-lifecycles/static/js/2.4730ea22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8414d929.js",
+    "static/js/2.4730ea22.chunk.js",
+    "static/css/main.894c4130.chunk.css",
+    "static/js/main.8b83922d.chunk.js"
+  ]
+}
